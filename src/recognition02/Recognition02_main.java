@@ -14,7 +14,7 @@ public class Recognition02_main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		VisualRecognition service = new VisualRecognition("2018-03-19");
-		service.setApiKey("1518074");
+		service.setApiKey("1132192");
 
 		
 		InputStream imagesStream = null;
